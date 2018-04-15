@@ -1,0 +1,9 @@
+# Tex middle object
+*.aux
+*.bbl
+*.blg
+*.log
+*.gz
+*.bak
+*.cls
+*.sav
